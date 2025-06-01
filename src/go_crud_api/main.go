@@ -113,7 +113,7 @@ func main() {
 		Director: &Director{Firstname: "koni", Lastname: "Zambo"},
 	})
 	movies = append(movies, Movie{
-		ID: "4", Isbn: "438220", Title: "the cool",
+		ID: "4", Isbn: "438220", Title: "the fantozy",
 		Director: &Director{Firstname: "gibi", Lastname: "Zambo"},
 	})
 	movies = append(movies, Movie{
